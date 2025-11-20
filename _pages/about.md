@@ -7,8 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Tom. 
 
+Hi! I am a researcher in the Prediction and Learning Lab at the University of Cambridge.
+
+I am currently working under the supervision of Professor Rebecca Lawson on a project investigating the role of the noradrenaline system in learning under uncertainty. During my PhD at Brunel University London, and postdoc at Queen Mary University London, I conducted research into individual differences in emotion perception. I use a combination of neuroimaging, physiological recordings, computational modelling and psychophysics.
+
+My research interests include emotion perception, interoception, and mood disorders. Going forward, I aim to conduct research into the computational mechanisms underlying social perception, and investigate how these may be related to mental health.
+
+<!-- 
+Hi! 
+
+**What do I do?**
+I conduct research into emotion perception, interoception, learning under uncertainty and mental health, in the Department of Psychology at the University of Cambridge.
+
+**How do I do that?**
+I use a combination of neuroimaging, computational modelling, physiological measurements, psychophysics, and pharmacology.
+ -->
+
+
+<!-- 
 
 A data-driven personal website
 ======
@@ -53,3 +70,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+ -->
