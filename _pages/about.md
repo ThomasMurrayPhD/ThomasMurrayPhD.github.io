@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Tom. I am a researcher at the University of Cambridge.
+Hi, I'm Tom. 
 
 
 A data-driven personal website
