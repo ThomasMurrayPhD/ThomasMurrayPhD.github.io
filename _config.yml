@@ -23,7 +23,7 @@ repository               : "ThomasMurrayPhD/thomasmurrayphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tom.jpg"
   name             : "Thomas Murray, PhD"
   bio              : "Researcher of cognitive and computational neuroscience at the University of Cambridge"
 
