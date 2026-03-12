@@ -13,7 +13,7 @@ author_profile: true
 * Murray, T., O'Brien, J., Sagiv, N., & Garrido, L. (2021). The role of stimulus-based cues and conceptual information in processing facial expressions of emotion. _Cortex, 144_, 109-132. [https://doi.org/10.1016/j.cortex.2021.08.007](https://doi.org/10.1016/j.cortex.2021.08.007)
 
 
-## In prep
+## In preparation
 * Murray, T., Sandhu, T., Kaser, M., & Lawson, R, P. (in preparation). Noradrenergic modulation of learning under uncertainty: A double-blind placebo-controlled study
 * Murray, T., Sandhu, T., Klodowski, K., Kaser, M., & Lawson, R, P. (in preparation). Investigating the role of the Locus Coeruleus Noradrenaline system in learning under uncertainty.
 * Murray, T., Sandhu, T., Bowen, X., Mikus, N., & Lawson, R, P. (in preparation). The effect of acute stress on social learning under uncertainty, and its relation to transdiagnostic psychiatric symptoms.
