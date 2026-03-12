@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 
-Hi! I am a researcher in the Prediction and Learning Lab at the University of Cambridge.
+Hi! I am a cognitive neuroscientist at the University of Cambridge.
 
-I am currently working under the supervision of Professor Rebecca Lawson on a project investigating the role of the noradrenaline system in learning under uncertainty. During my PhD at Brunel University London, and postdoc at Queen Mary University London, I conducted research into individual differences in emotion perception. I use a combination of neuroimaging, physiological recordings, computational modelling and psychophysics.
+I’m interested in how the brain and body work together to shape emotion, perception, and mental health. 
 
-My research interests include emotion perception, interoception, and mood disorders. Going forward, I aim to conduct research into the computational mechanisms underlying social perception, and investigate how these may be related to mental health.
+I use a combination of neuroimaging, computational modelling, physiological recordings, pharmacology, and psychophysics to understand the mechanisms that influence how we interpret the world and respond to emotional information.
+
+More recently, I’ve been studying how the perception of internal bodily signals, such as our heartbeat, influence emotional perception and decision making. By understanding these processes, I hope to uncover mechanisms that contribute to individual differences in emotional experience and vulnerability to mental health difficulties.
+
 
 <!-- 
 Hi! 
